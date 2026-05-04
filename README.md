@@ -1,6 +1,6 @@
 # Market Basket Analysis for Retailers
 
-**[Nikhil Lanke]**(https://linkedin.com/in/nikhillanke)  
+**[Nikhil Lanke]**(www.linkedin.com/in/nikhil-lanke-ba13aa284)  
 **Role:** Data Analyst Intern – Hackveda  
 **Date:** October 2025  
 
